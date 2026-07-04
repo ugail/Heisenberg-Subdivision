@@ -47,8 +47,6 @@ differences stay bounded.
 | 3 | `fig3_C0_convergence.png` | Uniform `C^0` convergence at rate `O(2^-k)` |
 | 4 | `fig4_non_C1_witness.png` | Linear growth of scaled first differences and the bounded Zygmund quotient |
 
-Each figure is exported as a 300 dpi PNG. The notebook also prints a convergence
-table and a numerical check that the limiting correction coefficient is `1/4`.
 
 ## Requirements
 
