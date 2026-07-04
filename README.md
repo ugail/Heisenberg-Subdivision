@@ -103,9 +103,9 @@ README.md                               this file
 
 ## Citation
 
-If you use the cross-replay paradigm, the code in this repository, or the precomputed result tables, please cite:
+If you use the  code in this repository, or the precomputed results or any part of it, please cite:
 
-> H. Ugail, A. Carriazo, *A Heisenberg Subdivision Scheme with Central Smoothness Loss*, 2026, Under review.
+> H. Ugail and A. Carriazo, *A Heisenberg Subdivision Scheme with Central Smoothness Loss*, 2026, Under review.
 
 ## License
 
