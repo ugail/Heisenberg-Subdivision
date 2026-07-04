@@ -13,6 +13,10 @@ The surprise is that this natural correction affects smoothness. The horizontal 
 The wider point is a cautionary one for anyone designing subdivision or refinement rules on groups and manifolds. Compatibility with the group law does not by itself guarantee a smooth limit.
 
 
+<img width="1590" height="565" alt="Figure1" src="https://github.com/user-attachments/assets/354bb708-e370-49d7-8f8b-428e88da9e9d" />
+
+
+
 ## Technical details
 
 The scheme refines a control polygon whose vertices live in the three-dimensional
