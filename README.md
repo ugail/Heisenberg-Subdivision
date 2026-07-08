@@ -105,7 +105,7 @@ README.md                               this file
 
 If you use the  code in this repository, or the precomputed results or any part of it, please cite:
 
-> H. Ugail and A. Carriazo, *A Heisenberg Subdivision Scheme with Central Smoothness Loss*, 2026, Under review.
+> H. Ugail and A. Carriazo, *A Heisenberg Subdivision Scheme with Central Smoothness Loss*, arXiv:2607.05446, 2026, https://doi.org/10.48550/arXiv.2607.05446
 
 ## License
 
